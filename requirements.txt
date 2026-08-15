@@ -1,0 +1,9 @@
+flask==3.0.3
+flask-cors==4.0.1
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.2
+
+# Optional, only needed if you switch to the real LSTM / CNN scripts:
+# tensorflow==2.16.1
