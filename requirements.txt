@@ -4,7 +4,5 @@ scikit-learn==1.4.2
 pandas==2.2.2
 numpy==1.26.4
 joblib==1.4.2
-
-# Optional, only needed if you switch to the real LSTM / CNN scripts:
-# tensorflow==2.16.1
+tensorflow-cpu==2.16.1
 gunicorn==22.0.0
